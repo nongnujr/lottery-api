@@ -1,0 +1,25 @@
+{
+  "name": "lotto-scraper",
+  "version": "1.0.0",
+  "description": "scrapper for Thai lottery",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Thai",
+    "Lottery"
+  ],
+  "author": "Nuttasit Patarateerakyl",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.1",
+    "bcrypt-nodejs": "0.0.3",
+    "cheerio": "^0.22.0",
+    "mongoose": "^4.6.0",
+    "request": "^2.74.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
